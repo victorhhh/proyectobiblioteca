@@ -9,6 +9,6 @@ package proyectobiblioteca;
  *
  * @author VictorHugo
  */
-public class Audio extends Multimedia{
-    
+public enum TipoMultimedia {
+    Audio, Video;
 }

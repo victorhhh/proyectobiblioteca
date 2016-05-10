@@ -9,7 +9,7 @@ package proyectobiblioteca;
  *
  * @author VictorHugo
  */
-public class InformeTecnico {
+public class InformeTecnico extends Lectura{
     private String nombreDelArea;
     private String responsableDeLaEvalucion;
     private String cargo;

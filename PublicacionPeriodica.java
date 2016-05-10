@@ -9,7 +9,7 @@ package proyectobiblioteca;
  *
  * @author VictorHugo
  */
-public class PublicacionPeriodica {
+public class PublicacionPeriodica extends Lectura{
     private String Editor;
     private String numeroDePublicacion;
     private String periodo;

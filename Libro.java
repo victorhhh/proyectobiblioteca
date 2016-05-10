@@ -9,7 +9,7 @@ package proyectobiblioteca;
  *
  * @author VictorHugo
  */
-public class Libro {
+public class Libro extends Lectura{
     private String ISBN;
     private String autor;
     private String editorial;
